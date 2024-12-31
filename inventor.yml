@@ -1,0 +1,6 @@
+all:
+  hosts:
+    web01:
+      ansible_host: 52.53.216.249
+      ansible_user: ubuntu
+
